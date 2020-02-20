@@ -1,5 +1,4 @@
 /*Name: Gabriela Peralta
-Student ID: 110016671
 */
 #include <stdio.h>
 #include <stdlib.h>
